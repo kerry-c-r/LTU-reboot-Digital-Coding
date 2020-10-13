@@ -1,2 +1,8 @@
-Test
-Alex showing a demo
+1.3. - 13/10/2020
+ 
+Reflection
+ 
+In today session I was shown GitHub, Git and VS Code. 
+We installed an extension onto VS Code (Live Service).
+
+I was introduced to creating my own responsitory on VS Code, cloning this into GitHub and understanding the updates and history of changes. 
