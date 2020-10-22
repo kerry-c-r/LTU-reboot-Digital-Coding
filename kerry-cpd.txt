@@ -6,3 +6,11 @@ In today session I was shown GitHub, Git and VS Code.
 We installed an extension onto VS Code (Live Service).
 
 I was introduced to creating my own responsitory on VS Code, cloning this into GitHub and understanding the updates and history of changes. 
+
+2.2. - 22/10/2020
+
+Reflection
+
+This week we used CSS to style HTML, mainly using colour and added sizes to images.
+In terms of HTML, I added headings, paragraphs, lists, images and linked to external webpages to open in a new tab.
+We created different CSS style sheets and applied to different branches before merging in main.
