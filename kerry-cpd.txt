@@ -17,4 +17,8 @@ We created different CSS style sheets and applied to different branches before m
 
 2.3 - 27/10/2020
 
-Reflection TBC
+I attended the workshop yesterday for clarication on terminology on GitHub (fetch/push). 
+I also used the opportunity to fix some of the broken code and mis-linked CSS style sheets.
+
+As part of today's session, I learned more about CSS styling, utilising positions and specifics to target certain parts of my code.
+I enjoy Luke's method of teahcing and he had shared some useful resources which I will follow up (mimo, chear sheets and useful CSS reference websites) 
