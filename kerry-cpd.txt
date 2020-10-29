@@ -22,3 +22,6 @@ I also used the opportunity to fix some of the broken code and mis-linked CSS st
 
 As part of today's session, I learned more about CSS styling, utilising positions and specifics to target certain parts of my code.
 I enjoy Luke's method of teahcing and he had shared some useful resources which I will follow up (mimo, chear sheets and useful CSS reference websites) 
+
+2.4 - 29/10/2020
+
