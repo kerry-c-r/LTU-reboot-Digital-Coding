@@ -1,9 +1,11 @@
 body{ 
     border-top: 1px solid #ff0000;
     border-bottom: 4px dotted #000000;
+    text-align: center;
+    width: 80%;
 }
 footer{
     border: 1px solid blueviolet;
-    margin:10px;
+    margin:10px auto;
     padding: 20px;
 }
