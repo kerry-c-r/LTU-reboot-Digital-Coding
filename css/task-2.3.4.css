@@ -1,0 +1,9 @@
+body{ 
+    border-top: 1px solid #ff0000;
+    border-bottom: 4px dotted #000000;
+}
+footer{
+    border: 1px solid blueviolet;
+    margin:10px;
+    padding: 20px;
+}
