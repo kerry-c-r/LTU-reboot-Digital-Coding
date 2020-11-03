@@ -1,0 +1,15 @@
+.sidebar{
+    float:left;
+    width:100px;
+    border: green;
+    background:yellow;
+}
+.main{
+    float:right;
+    width:200px;
+    height: 400px;
+    background: orange;
+    border: blueviolet;
+  }
+
+  
