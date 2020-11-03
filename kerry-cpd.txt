@@ -21,7 +21,15 @@ I attended the workshop yesterday for clarication on terminology on GitHub (fetc
 I also used the opportunity to fix some of the broken code and mis-linked CSS style sheets.
 
 As part of today's session, I learned more about CSS styling, utilising positions and specifics to target certain parts of my code.
-I enjoy Luke's method of teahcing and he had shared some useful resources which I will follow up (mimo, chear sheets and useful CSS reference websites) 
+I enjoy Luke's method of teaching and he had shared some useful resources which I will follow up (mimo, chear sheets and useful CSS reference websites) 
 
-2.4 - 29/10/2020
+2.3 - 29/10/2020
 
+We continued 2.3 and started on 2.4. The coding is getting more complicated but we touched on margins, border and padding. Luke explained the concepts.
+I understoof it a little more by defining the pixels needed for each element and I could see the example more clearly.
+
+2.4 - 03/11/2020
+
+We did more coding on moving images and texts using abolsutely and relative positioning. 
+I thought this was more challenging but after Luke demonstrated I understood the concept more. 
+We looked at float which is used in older code. This is something I come across during work so this is quite useful.
