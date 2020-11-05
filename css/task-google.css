@@ -1,0 +1,24 @@
+.container{
+
+}
+.search{
+    position: absolute;
+    top:10px;
+    left:10px;
+
+
+}
+.microphone{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+
+}
+
+input{
+position: absolute;
+top: 4px;
+left: 10px;
+width: 80%;
+height: 30px;
+}
