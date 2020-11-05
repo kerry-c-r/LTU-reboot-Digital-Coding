@@ -33,3 +33,9 @@ I understoof it a little more by defining the pixels needed for each element and
 We did more coding on moving images and texts using abolsutely and relative positioning. 
 I thought this was more challenging but after Luke demonstrated I understood the concept more. 
 We looked at float which is used in older code. This is something I come across during work so this is quite useful.
+
+3.1 - 05/11/2020 
+
+Today we looked at Javascript code, including looking at the inspect element to see the hidden messages.
+I also used the pop up (alert) and document write methods. This was a good introduction to JS.
+Towards the end of the session I used variables and was introduced to the arithemtic operators.
