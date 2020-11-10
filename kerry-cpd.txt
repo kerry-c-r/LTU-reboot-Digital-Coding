@@ -39,6 +39,7 @@ We looked at float which is used in older code. This is something I come across 
 Today we looked at Javascript code, including looking at the inspect element to see the hidden messages.
 I also used the pop up (alert) and document write methods. This was a good introduction to JS.
 Towards the end of the session I used variables and was introduced to the arithemtic operators.
+I did the HTML quiz and achieved a score of 65%.
 
 3.2. - 10/11/2020
 
