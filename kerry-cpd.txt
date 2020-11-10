@@ -39,3 +39,8 @@ We looked at float which is used in older code. This is something I come across 
 Today we looked at Javascript code, including looking at the inspect element to see the hidden messages.
 I also used the pop up (alert) and document write methods. This was a good introduction to JS.
 Towards the end of the session I used variables and was introduced to the arithemtic operators.
+
+3.2. - 10/11/2020
+
+We looked at functions today and combined what we learnt last week with variables.
+I forget to declare the function and most of my errors lie in the camel case of the code.
