@@ -1,5 +1,6 @@
-function fullName(a, b){
-      console.log(a + b);
+function fullName(firstName,lastName){
+      
+    console.log(firstName +  ' ' + lastName);
     }
     
-    fullName(Kerry, Chung); // Kerry Chung
+ fullName('Kerry', 'Chung-Roberts'); 
