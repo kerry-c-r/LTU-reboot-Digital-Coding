@@ -45,3 +45,5 @@ I did the HTML quiz and achieved a score of 65%.
 
 We looked at functions today and combined what we learnt last week with variables.
 I forget to declare the function and most of my errors lie in the camel case of the code.
+I learnt about arguments and how these are used within functions to store and use later. I then executed the console log function in the browser to test my code.
+Variable scope was a little bit confusing.
