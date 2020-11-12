@@ -50,4 +50,4 @@ Variable and glocal scope was a little bit confusing. I will need to review Bool
 
 3.3 - 12/11/2020
 
-We did a practical session where we reviewed a number of javascript tasks. 
+We did a practical session where we reviewed a number of javascript tasks. This was quite difficult, I got a lot of error messages
