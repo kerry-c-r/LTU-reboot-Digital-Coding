@@ -5,18 +5,17 @@ var drinkToLowerCase = drink.toLowerCase();
 switch (drink) {
    case 'cola':
    console.log('You have ordered a ' + size + '' + drinkToLowerCase  );
-   break:
-   
+   break
+
    case 'lemonade':
     console.log('You have ordered a ' + size + ''  + drinkToLowerCase  );
-    break:
+    break
 
     case 'orange':
         console.log('You have ordered a ' + size + ''  + drinkToLowerCase );
-        break:
-
+        break
 }
    default:
     console.log('Sorry, that drink is not available';
-    break:
+    break
 }
