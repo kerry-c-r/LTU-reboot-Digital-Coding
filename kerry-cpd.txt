@@ -47,3 +47,7 @@ We looked at functions today and combined what we learnt last week with variable
 I forget to declare the function and most of my errors lie in the camel case of the code.
 I learnt about arguments and how these are used within functions to store and use later. I then executed the console log function in the browser to test my code.
 Variable and glocal scope was a little bit confusing. I will need to review Boolean and comparison operators.
+
+3.3 - 12/11/2020
+
+We did a practical session where we reviewed a number of javascript tasks. 
