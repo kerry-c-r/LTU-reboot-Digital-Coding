@@ -4,5 +4,5 @@ function percentageCalculator ( number, percentage){
 
 return percentageOf;
 
-      console.log(percentageOf );
+      console.log( percentageCalculator (300, 25 ));
 }
