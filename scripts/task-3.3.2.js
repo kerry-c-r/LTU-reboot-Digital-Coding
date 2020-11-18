@@ -16,6 +16,6 @@ switch (drink) {
         break;
 }
    default:
-    console.log('Sorry, that drink is not available';
+    console.log('Sorry, that drink is not available');
     break
 }
