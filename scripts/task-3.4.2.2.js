@@ -1,9 +1,4 @@
-var favouriteFoods = ('Pizza', 'Nachos', 'Gelato');
-
-for (var index =0; index<favouriteFoods.length; index++){
-
-console.log( favouriteFoods[index]);
-
+var arrFavouriteFoods = ['Pizza', 'Nachos', 'Gelato'];
+for (counter = 0; counter < arrFavouriteFoods.length; counter++){
+    document.write (arrFavouriteFoods[counter] + '<br/>')
 }
-
-console.log(favouriteFoods [1]); //'Nachos'
