@@ -50,4 +50,11 @@ Variable and glocal scope was a little bit confusing. I will need to review Bool
 
 3.3 - 12/11/2020
 
-We did a practical session where we reviewed a number of javascript tasks. This was quite difficult, I got a lot of error messages
+We did a practical session where we reviewed a number of javascript tasks. This was quite difficult, I got a lot of error messages. We looked at switch, breaks and returns.
+
+3.4 - 17/11/2020
+
+Another practical lesson, I found it quite difficult to get the code to work for the arrays and loops, but the concepts made sense. I haven't got this far on FreeCodeCamp yet, but I think this will help when I get to practise it.
+
+Towards the end we looked at objects, but I think I will need to look at this in a webinar session. 
+
