@@ -58,3 +58,9 @@ Another practical lesson, I found it quite difficult to get the code to work for
 
 Towards the end we looked at objects, but I think I will need to look at this in a webinar session. 
 
+3.5 - 19/11/2020
+
+I watched the recordings of my lessons and Alex's to fix some of my broken code. I also attended the workshop which helped me understand the concepts of arrays and loops.
+
+In today's session we did a practical on shopping carts. It was logical when Luke explained it and I felt more comfortable in the session. 
+I will take away the practical and continue to troubleshoot it.
