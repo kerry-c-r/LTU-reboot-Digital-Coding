@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DOM</title>
+</head>
+<body>
+
+  <p class="paragraph1 specific">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quam cumque eum praesentium quas? Maxime nesciunt, harum neque debitis quasi, dolores ut blanditiis vitae cumque sunt voluptatibus tenetur adipisci autem?</p>
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere dicta culpa quas aperiam repudiandae perspiciatis voluptatem autem reprehenderit, minus laudantium repellendus temporibus error illo? Facilis quos quia dicta labore nostrum.</p>
+
+  <script>
+
+    var paragraph = document.querySelectorAll('p');
+
+    console.log(paragraph);
+
+        for(var i = 0; i < paragraph.length; i++ ) {
+
+          paragraph[i].style.color = 'red';
+
+        }
+
+
+
+        
+
+  </script>
+  
+</body>
+</html>
