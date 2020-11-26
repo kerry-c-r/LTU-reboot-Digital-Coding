@@ -64,3 +64,9 @@ I watched the recordings of my lessons and Alex's to fix some of my broken code.
 
 In today's session we did a practical on shopping carts. It was logical when Luke explained it and I felt more comfortable in the session. 
 I will take away the practical and continue to troubleshoot it.
+
+3.6 - 3.7 - 26/11/2020
+
+Last session we looked at the DOM and creating nodes.
+
+In today's session I groups images in classes, and added buttons as filters to separate the different images. I thought this session made more sense than the last one! I spent time fixing my broken code from last session.
