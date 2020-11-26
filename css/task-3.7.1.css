@@ -1,0 +1,9 @@
+.main img {
+    width: 200px;
+
+}
+
+.active {
+    background-colour: grey;
+    color:#fff;
+}
