@@ -74,3 +74,7 @@ In today's session I grouped images in class, and added buttons as filters to se
 3.8 - 01/12/2020
 
 Alex defined what SSGs were and talked about the various programmes and how they operate. 
+
+Pseudocode - 03/12/2020
+
+We looked at writing pseudocode and how this aids code writing. I thought this practical was useful.
